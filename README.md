@@ -1,8 +1,7 @@
 # Labs
 
-Labs still missing to date 27
-/12/2021:
-- Lab29
+Labs still missing to date 05/01/2022:
+- Lab29: have 1 pending question!
 - Lab30 (ongoing)
 - Lab31 (ongoing)
 
