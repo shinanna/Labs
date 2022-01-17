@@ -13,3 +13,5 @@ Labs still missing to date 05/01/2022:
 ==Module2:==
 - Lab4 (ongoing)
 - Lab10 (ongoing)
+- Lab18 (ongoing)
+- Lab19 (ongoing)
