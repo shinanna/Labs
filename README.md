@@ -1,6 +1,6 @@
 # Labs
 
-Labs still missing to date 05/01/2022:
+Labs still missing to date 18/01/2022:
 
 == Module1:==
 - Lab29: have 1 pending question!
@@ -12,6 +12,6 @@ Labs still missing to date 05/01/2022:
 
 ==Module2:==
 - Lab4 (ongoing)
-- Lab10 (ongoing)
+- Lab10: DONE
 - Lab18 (ongoing)
 - Lab19 (ongoing)
