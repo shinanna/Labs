@@ -11,8 +11,8 @@ Labs still missing to date 19/01/2022:
 - Lab33
 
 ==Module2:==
-- Lab4: DONE
-- Lab10: DONE
+
+- Lab14
+- Lab15
 - Lab18 (ongoing)
-- Lab19: DONE
 - Lab21: (ongoing)
