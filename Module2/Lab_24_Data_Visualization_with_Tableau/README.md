@@ -78,6 +78,9 @@ Minnesota Vikings with a completion percentage of 70%.
     - Add a title to the dashboard by checking the *Show dashboard title* checkbox at the lower left of the screen. Edit the dashboard title to be *NFL Team Performance Dashboard*.
 12. Save your work to Tableau Public, ensure that your workbook is viewable, and copy the URL for the workbook into the deliverables file for this lab.
 
+https://public.tableau.com/views/NFLTeamPerformance_16426925639610/Dashboard1?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link 
+
+
 ## Part 2
 
 Use the `countries of the world.csv` dataset, create two data visualization maps for:
@@ -91,6 +94,8 @@ Use the `countries of the world.csv` dataset, create two data visualization maps
     ![World GDP Per Capital](./images/bonus-2.png)
 
 Create a dashboard to display both dataviz maps and save it to Tableau Public. Ensure that your workbook is viewable, and copy the URL for the workbook into the deliverables file for this lab.
+
+https://public.tableau.com/app/profile/shin.anna/viz/countries_16426939545490/Dashboard1?publish=yes
 
 ## Deliverables
 

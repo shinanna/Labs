@@ -1,0 +1,6 @@
+Answers to the questions are in the README file, links to my Tableau Public:
+
+
+https://public.tableau.com/views/NFLTeamPerformance_16426925639610/Dashboard1?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link 
+
+https://public.tableau.com/app/profile/shin.anna/viz/countries_16426939545490/Dashboard1?publish=yes
