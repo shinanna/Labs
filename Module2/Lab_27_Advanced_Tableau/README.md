@@ -6,8 +6,6 @@
 
 In this lab, we will practice more in Business Intelligence in Tableau
 
-
-
 ## Part 1
 
 1. Download the dataset.
@@ -89,10 +87,12 @@ c. -17.54%
 
 d. -771.39%
 
+e. Found -514% for Christine Carver
+
 8. Determine which State in the Central Region has the highest distribution of profits using interquartile
 ranges.
 
-a. South Dakota
+==a. South Dakota==
 
 b. North Dakota
 
@@ -107,7 +107,7 @@ a. Appliances
 
 b. Bookcases
 
-c. Envelopes
+==c. Envelopes==
 
 d. Paper
 
@@ -115,7 +115,7 @@ d. Paper
 
 a. 3.50%
 
-b. 5.03%
+==b. 5.03%==
 
 c. 17.54%
 
@@ -131,6 +131,8 @@ c. $188,552
 
 d. $286,170
 
+==e. $204,265== is the value I get when including exactly 6 months before (from dec to may) and 6 months after (from july to dec)
+
 12. Create a histogram showing the number of Sales using Sales Bins of $1,000. Which bins have profit ratios
 (profit as a percentage of sales) of more than 25%? (Select all that apply)
 
@@ -138,17 +140,20 @@ a. 1,000
 
 b. 3,000
 
-c. 7,000
+==c. 7,000==
 
-d. 8,000
+==d. 8,000==
 
 e. 10,000
 
 f. 11,000
 
-g. 18,000
+==g. 18,000==
 
 
 ## Part 2
 1. Add animated bubbles chart (tips: check extentions)
 2. Add dashboard filters by Order Priority, Customer Segment and Product Category
+
+Link to my tableau public: 
+https://public.tableau.com/views/Lab27/Dashboard1?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link
