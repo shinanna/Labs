@@ -21,3 +21,9 @@ Labs still missing to date 24/01/2022:
 - Lab26
 - Lab27
 - Lab28
+
+==Module3:==
+
+- Lab1: done
+- Lab2: done
+- Lab3: done
