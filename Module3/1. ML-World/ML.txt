@@ -1,0 +1,3 @@
+Computer scientists in Singapore have developed a routing algorithmn based on Machine Learning to minimize the occurence of spontaneous traffic jams. The model aims at overcoming individual behaviours causing 'traffic breakdowns' slowing the overall traffic flow by calculating optimal routes avoiding highly probable traffic breakdowns. Driverless cars are best at applying this rational predictive model and having only 10% of cars following this model would have an actual impact on easing traffic flow.
+
+https://www.vice.com/en/article/jp3dn7/new-ai-algorithm-beats-even-the-worlds-worst-traffic
