@@ -15,12 +15,12 @@ Labs still missing to date 24/01/2022:
 - Lab12
 - Lab14
 - Lab15
-- Lab18 (ongoing)
+- Lab18 (ongoing) <--almost done
 - Lab21 (ongoing)
 - Lab22: done
 - Lab26
-- Lab27
-- Lab28
+- Lab27: done
+- Lab28: done
 
 ==Module3:==
 

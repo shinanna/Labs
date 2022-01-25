@@ -12,7 +12,7 @@ As a data analyst you will need to present the results of your analysis, create 
 You will have 2 tasks that will require separate Google Sheet/ Excel files. All tasks are described below
 
 ## Deliverables
-Forests_dashboard
+Forests_dashboard https://docs.google.com/spreadsheets/d/1UCGJ20Na8kFI_DMOoM1g3aEqBpDJRq-Y1PHSINkIKJ4/edit?usp=sharing 
 Call_Center dashboard
 
 
@@ -69,3 +69,5 @@ the tables using MySQL or Python
 8. I want to see the average scores for Agend grouped by each manager on the Tab By Manager:
  -- I choose the manager, and I see the success of his/her team (see file Hierarchy)
  -- I choose the Manager and I see the Benchmarking with the targets (file Targets)
+
+
