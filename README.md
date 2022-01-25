@@ -12,6 +12,7 @@ Labs still missing to date 24/01/2022:
 
 ==Module2:==
 
+- Lab8
 - Lab12
 - Lab14
 - Lab15
