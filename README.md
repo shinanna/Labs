@@ -4,7 +4,7 @@ Labs still missing to date 26/01/2022:
 
 == Module1:==
 - Lab29: done
-- Lab29-1
+- Lab29-1: done
 - Lab30 (ongoing)
 - Lab31 (ongoing)
 - Lab32
