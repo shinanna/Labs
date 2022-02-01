@@ -25,3 +25,5 @@ Labs still missing to date 26/01/2022:
 - Lab4: done
 - Lab5: done
 - Lab7: done
+- Lab9: done > to send to Manu
+- Lab10: done > to send to Manu
