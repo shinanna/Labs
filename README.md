@@ -1,6 +1,6 @@
 # Labs
 
-Labs still missing to date 26/01/2022:
+Labs still missing to date 02/02/2022:
 
 == Module1:==
 - Lab30 (ongoing)
@@ -24,9 +24,11 @@ Labs still missing to date 26/01/2022:
 - Lab3: done
 - Lab4: done
 - Lab5: done
-- Lab6: almost done --> need Manu's help!
+- Lab6: done
 - Lab7: done
-- Lab8: almost done --> need Manu's help!
+- Lab8: done
 - Lab9: done 
 - Lab10: done
-- Lab11: done --> send to Manu
+- Lab11: done
+- Lab12: done
+- Lab13: ongoing
